@@ -9,10 +9,10 @@ Budgetary is a budget management tool that helps you efficiently track and manag
 ### Features
 
 -   Add income and expenses to your budget list.
-    <img src="/img/Budgetary-budget.png" alt="Budgetary" width="500" height="340">
+    <img src="/img/Budgetary-budget.png" alt="Budgetary" width="500" height="300">
 
 -   Conveniently access delete and edit options by hovering over each item.
-    <img src="/img/Budgetary-edit-delete.png" alt="Edit/Delete" width="400" height="340">
+    <img src="/img/Budgetary-edit-delete.png" alt="Edit/Delete" width="500" height="300">
 
 ### Development
 
